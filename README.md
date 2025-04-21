@@ -1,12 +1,21 @@
 Level 1: HTTP Fetch + goquery -
+
 Level 2: List Extraction 
+
 Level 3: Link‑Following Crawl (Depth 1)
+
 Level 4: Colly Basic Scraper 
+
 Level 5: Pagination Handling 
+
 Level 6: JSON & AJAX Endpoints 
+
 Level 7: Authentication & Sessions 
+
 Level 8: Rate‑Limiting, Proxies & UA Rotation 
+
 Level 9: robots.txt, sitemaps & Data Storage 
+
 Level 10: Distributed & Headless Crawler 
 
 Advanced
