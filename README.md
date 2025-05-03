@@ -1,4 +1,4 @@
-Level 1: HTTP Fetch + goquery -
+Level 1: HTTP Fetch + goquery -                      
 Level 2: List Extraction                                 
 Level 3: Link‑Following Crawl (Depth 1)                       
 Level 4: Colly Basic Scraper 
